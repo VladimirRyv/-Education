@@ -2,5 +2,5 @@ const button = document.querySelectior("button");
 const output = document.querySelector(".output");
 
 button.addEventListener("click", function() {
-  output.innerHTML = "Приветики пистолетики!";
+    output.innerHTML = "Приветики пистолетики!"
 });
